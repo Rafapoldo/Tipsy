@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0F57864F-B2CE-4CBB-93AF-4DED95A922C6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4D9EAFA-90B0-4F00-9669-45E1345010E2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tipsy/controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B4D9EAFA-90B0-4F00-9669-45E1345010E2 - 14adb9693f010eab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.ViewController.splitNumberLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rafaelsteffens/Documents/newProjects/UdemyAngela/Tipsy-iOS13/Tipsy/controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "B4D9EAFA-90B0-4F00-9669-45E1345010E2 - 57a19c3cbc9b62bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.ViewController.splitNumberLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rafaelsteffens/Documents/newProjects/UdemyAngela/Tipsy-iOS13/Tipsy/controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "B4D9EAFA-90B0-4F00-9669-45E1345010E2 - e55205e55023abae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.ViewController.splitNumberLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rafaelsteffens/Documents/newProjects/UdemyAngela/Tipsy-iOS13/Tipsy/controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B4D9EAFA-90B0-4F00-9669-45E1345010E2 - cf0d32186b7d5a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.ViewController.splitNumberLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rafaelsteffens/Documents/newProjects/UdemyAngela/Tipsy-iOS13/Tipsy/controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "B4D9EAFA-90B0-4F00-9669-45E1345010E2 - eaf50001b7980dcc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Tipsy.ViewController"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rafaelsteffens/Documents/newProjects/UdemyAngela/Tipsy-iOS13/Tipsy/controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "B4D9EAFA-90B0-4F00-9669-45E1345010E2 - cc1427c5601b253b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Tipsy.ViewController&gt;"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rafaelsteffens/Documents/newProjects/UdemyAngela/Tipsy-iOS13/Tipsy/controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6ADCFF20-AA35-4F60-8C38-AA5C88F7915F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tipsy/controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6ADCFF20-AA35-4F60-8C38-AA5C88F7915F - 38c531894516e97b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.ViewController.tenPctButton.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rafaelsteffens/Documents/newProjects/UdemyAngela/Tipsy-iOS13/Tipsy/controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "6ADCFF20-AA35-4F60-8C38-AA5C88F7915F - 4dfe890fd6b7234f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.ViewController.tenPctButton.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rafaelsteffens/Documents/newProjects/UdemyAngela/Tipsy-iOS13/Tipsy/controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "6ADCFF20-AA35-4F60-8C38-AA5C88F7915F - c5a335b78f6c0efe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.ViewController.tenPctButton.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rafaelsteffens/Documents/newProjects/UdemyAngela/Tipsy-iOS13/Tipsy/controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "6ADCFF20-AA35-4F60-8C38-AA5C88F7915F - 2a5d14ef2f415719"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.ViewController.tenPctButton.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rafaelsteffens/Documents/newProjects/UdemyAngela/Tipsy-iOS13/Tipsy/controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "6ADCFF20-AA35-4F60-8C38-AA5C88F7915F - eaf50001b7980d0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Tipsy.ViewController"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rafaelsteffens/Documents/newProjects/UdemyAngela/Tipsy-iOS13/Tipsy/controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "6ADCFF20-AA35-4F60-8C38-AA5C88F7915F - cc1427c5601b25f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Tipsy.ViewController&gt;"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rafaelsteffens/Documents/newProjects/UdemyAngela/Tipsy-iOS13/Tipsy/controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4907CF7-0712-41AA-A5D6-4AA8D9611E07"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tipsy/controllers/CalculatorViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "CalculatorViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E4907CF7-0712-41AA-A5D6-4AA8D9611E07 - c37acfe0f457b4df"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculatorViewController.tenPctButton.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rafaelsteffens/Documents/newProjects/UdemyAngela/Tipsy-iOS13/Tipsy/controllers/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "E4907CF7-0712-41AA-A5D6-4AA8D9611E07 - 57ed4cea23644d3"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculatorViewController.tenPctButton.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rafaelsteffens/Documents/newProjects/UdemyAngela/Tipsy-iOS13/Tipsy/controllers/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "E4907CF7-0712-41AA-A5D6-4AA8D9611E07 - bb8b57bdd27548c2"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculatorViewController.tenPctButton.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rafaelsteffens/Documents/newProjects/UdemyAngela/Tipsy-iOS13/Tipsy/controllers/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "E4907CF7-0712-41AA-A5D6-4AA8D9611E07 - 7accead3101aede6"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculatorViewController.tenPctButton.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rafaelsteffens/Documents/newProjects/UdemyAngela/Tipsy-iOS13/Tipsy/controllers/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "E4907CF7-0712-41AA-A5D6-4AA8D9611E07 - 7eac3e6cb39d5ed4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculatorViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Tipsy.CalculatorViewController"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rafaelsteffens/Documents/newProjects/UdemyAngela/Tipsy-iOS13/Tipsy/controllers/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "E4907CF7-0712-41AA-A5D6-4AA8D9611E07 - ea51663513d5362f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculatorViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Tipsy.CalculatorViewController&gt;"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rafaelsteffens/Documents/newProjects/UdemyAngela/Tipsy-iOS13/Tipsy/controllers/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
